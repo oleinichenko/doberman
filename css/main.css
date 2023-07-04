@@ -1,0 +1,54 @@
+html,
+body {
+  overflow-x: hidden;
+}
+
+.main-header {
+  padding-top: 1rem;
+  padding-bottom: 10rem;
+}
+.main-header .top-news {
+  border: 1px solid black;
+}
+.main-header .top-news li {
+  list-style-type: none;
+}
+
+.media .fa-youtube {
+  color: #ff0000;
+}
+.media .fa-vk {
+  color: #45668e;
+}
+.media .fa-telegram {
+  color: #0088cc;
+}
+
+footer {
+  text-align: center;
+  padding: 1.5rem;
+}
+footer p {
+  margin: 0;
+}
+footer a {
+  padding-left: 10px;
+}
+
+.news-header {
+  padding: 1rem;
+}
+
+.posts-list .post {
+  margin-top: 2rem;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+.posts-list .post .post-image {
+  padding: 1rem;
+  justify-content: center;
+  border-right: 1px solid black;
+}
+.posts-list .post .post-data {
+  padding-top: 1rem;
+}/*# sourceMappingURL=main.css.map */

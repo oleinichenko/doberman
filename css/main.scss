@@ -1,0 +1,61 @@
+html,
+body {
+  overflow-x: hidden;
+}
+
+.main-header {
+  .top-news {
+    li {
+      list-style-type: none;
+    }
+    border: 1px solid black;
+  }
+  padding-top: 1rem;
+  padding-bottom: 10rem;
+}
+
+.media {
+  .fa-youtube {
+    color: #ff0000;
+  }
+  .fa-vk {
+    color: #45668e;
+  }
+  .fa-telegram {
+    color: #0088cc;
+  }
+}
+footer {
+  text-align: center;
+  padding: 1.5rem;
+
+  p {
+    margin: 0;
+  }
+  a {
+    padding-left: 10px;
+  }
+}
+
+//////////////////////////////Дневник добермана//////////////////////////////
+
+.news-header {
+  padding: 1rem;
+}
+.posts-list {
+  .post {
+    margin-top: 2rem;
+    border: 1px solid black;
+    border-radius: 10px;
+    .post-image {
+      padding: 1rem;
+      justify-content: center;
+      border-right: 1px solid black;
+    }
+    .post-data {
+      padding-top: 1rem;
+    }
+  }
+}
+
+//////////////////////////////////////Кинология////////////////
